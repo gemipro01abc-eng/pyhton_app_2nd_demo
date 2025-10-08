@@ -1,0 +1,5 @@
+{
+  "name": "Trình phân loại hình ảnh cơ bản",
+  "description": "Một ứng dụng web đơn giản cho phép người dùng tải lên hình ảnh và nhận dự đoán về đối tượng trong ảnh bằng API của Gemini.",
+  "requestFramePermissions": []
+}
